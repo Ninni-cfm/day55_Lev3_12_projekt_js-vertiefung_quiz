@@ -8,6 +8,6 @@ Deine HTML sollte nur dies beinhalten: <div id="content"></div>
 
 ---
 
-https://github.com/Ninni-cfm/day55_Lev3_12_projekt_js-vertiefung_quiz
+_Source:_ https://github.com/Ninni-cfm/day55_Lev3_12_projekt_js-vertiefung_quiz
 
-https://ninni-cfm.github.io/day55_Lev3_12_projekt_js-vertiefung_quiz/
+_Demo:_ https://ninni-cfm.github.io/day55_Lev3_12_projekt_js-vertiefung_quiz/
